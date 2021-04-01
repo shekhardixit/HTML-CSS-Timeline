@@ -23,7 +23,7 @@ section#timeline:before{
     height: 100%;
     background: rgba(255,255,255,0.2);
 }
-#timeline article div.inner span.date{
+section#timeline article div.inner span.date{
     display: block;
     width: 100px;
     height: 100px;
