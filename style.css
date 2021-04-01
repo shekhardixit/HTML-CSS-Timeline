@@ -61,6 +61,7 @@ section#timeline article div.inner span.date{
 
 section#timeline article div.inner h2{
     padding: 15px 4px;
+    width: 38%;
     margin-right: 0;
     color: #89CFF0;
     text-transform: uppercase;
@@ -69,11 +70,14 @@ section#timeline article div.inner h2{
     position: relative;
 }
 
-section#timeline article div.inner o{
+section#timeline article div.inner p{
     padding: 15px;
     margin: 0;
     font-size: 18px;
     background: #fff;
     color: #656565;
     border-radius: 0 0 6px 6px;
+}
+section#timeline article{
+
 }
