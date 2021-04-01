@@ -43,5 +43,19 @@ section#timeline:before{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    
+    animation: rotate 5s linear infinite;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+        background-color: #000034;
+    }
+    50%{
+        transform: rotate(180deg);
+        background-color: #003434;
+    }
+    100%{
+        transform: rotate(360deg);
+        background-color: #000034;
+    }
 }
