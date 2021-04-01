@@ -59,3 +59,13 @@ section#timeline article div.inner span.date{
         background-color: #000034;
     }
 }
+
+section#timeline article div.inner h2{
+    padding: 15px;
+    margin: 0;
+    color: #89CFF0;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    border-radius: 6px 6px 0 0;
+    position: relative;
+}
