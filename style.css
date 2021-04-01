@@ -51,7 +51,7 @@ section#timeline article div.inner span.date{
     }
     50%{
         transform: rotate(180deg);
-        background-color: #003434;
+        background-color: #89CFF0;
     }
     100%{
         transform: rotate(360deg);
@@ -77,7 +77,4 @@ section#timeline article div.inner p{
     background: #fff;
     color: #656565;
     border-radius: 0 0 6px 6px;
-}
-section#timeline article{
-
 }
