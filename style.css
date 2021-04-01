@@ -28,11 +28,10 @@ section#timeline article div.inner span.date{
     width: 100px;
     height: 100px;
     position: absolute;
-    top: 0;
     left: 50%;
     margin: 0 0 0 -52px;
     border-radius: 100%;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 900;
     text-transform: uppercase;
     background: #000034;
@@ -61,11 +60,20 @@ section#timeline article div.inner span.date{
 }
 
 section#timeline article div.inner h2{
-    padding: 15px;
-    margin: 0;
+    padding: 15px 4px;
+    margin-right: 0;
     color: #89CFF0;
     text-transform: uppercase;
     letter-spacing: -1px;
     border-radius: 6px 6px 0 0;
     position: relative;
+}
+
+section#timeline article div.inner o{
+    padding: 15px;
+    margin: 0;
+    font-size: 18px;
+    background: #fff;
+    color: #656565;
+    border-radius: 0 0 6px 6px;
 }
