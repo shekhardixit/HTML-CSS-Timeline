@@ -82,4 +82,5 @@ section#timeline article div.inner p{
     background: #fff;
     color: #656565;
     border-radius: 0 0 6px 6px;
+    position: relative;
 }
